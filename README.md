@@ -1,4 +1,4 @@
-# apuntes_javaweb
+# JSTL
 
 Redireccionar desde JSP
 ```html
